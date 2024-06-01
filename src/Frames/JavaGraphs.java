@@ -22,7 +22,7 @@ public class JavaGraphs extends JFrame implements ActionListener
 {
 
 	private static int width = 800;
-	private static int height = 600;
+	private static int height = 500;
     private int graphWidth = (int) (width * 0.85);          // 85% of the Jframe Width
     private int graphHeight = (int) (height * 0.85);        // 85% of the JFrame Height
 	private Timer timer;
