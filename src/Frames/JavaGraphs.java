@@ -122,6 +122,8 @@ public class JavaGraphs extends JFrame implements ActionListener
         //read data from the data.txt file by using scanner
         while (reader.hasNextLine()) {
             data.add(new String[] {reader.next(), reader.next()});
+
+
         }
 
         return data;
