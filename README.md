@@ -1,11 +1,12 @@
 # README
 
+## [DEMO](https://khiibaedu-my.sharepoint.com/:v:/g/personal/a_iqbal_24529_khi_iba_edu_pk/ESxMIv1JNapLrD6QcwFeGqMBlkUol5a5hK3LyvT306cWwg?e=FEXFli&nav=eyJwbGF5YmFja09wdGlvbnMiOnt9LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbE1vZGUiOiJtaXMiLCJyZWZlcnJhbFZpZXciOiJwb3N0cm9sbC1jb3B5bGluayIsInJlZmVycmFsUGxheWJhY2tTZXNzaW9uSWQiOiJmZDcyNDFmZi1lYWUxLTRiNWItOGZmNi01MWRmMDc5YjM3MzgifX0%3D)
 ## Overview
 
 This project aims to develop bar graph-making software that reads data from a file named “data.txt”. The data in the file consists of names and corresponding numerical values, which will be represented as bars in the graph. The software generates two types of bar graphs: one displaying data horizontally and another displaying data vertically. Additionally, the project includes functionality to create line graphs, where lines are drawn from one value to the next, creating a visual representation resembling mountains in a vertical orientation.
 
 ## Features
-
+- **Scaling**: Automatic scaling of graphs according to the magnitude of values in "data.txt" as can be seen in the [demo](https://khiibaedu-my.sharepoint.com/:v:/g/personal/a_iqbal_24529_khi_iba_edu_pk/ESxMIv1JNapLrD6QcwFeGqMBlkUol5a5hK3LyvT306cWwg?e=FEXFli&nav=eyJwbGF5YmFja09wdGlvbnMiOnt9LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbE1vZGUiOiJtaXMiLCJyZWZlcnJhbFZpZXciOiJwb3N0cm9sbC1jb3B5bGluayIsInJlZmVycmFsUGxheWJhY2tTZXNzaW9uSWQiOiJmZDcyNDFmZi1lYWUxLTRiNWItOGZmNi01MWRmMDc5YjM3MzgifX0%3D)
 - **Data Representation**: The software reads data from the "data.txt" file, where each entry contains a name and a numerical value.
 - **Bar Graphs**: Bars are generated dynamically based on the number of data entries. The size of the bars adjusts according to the data, and each bar has a random color. The name of the data is displayed along with the bar.
 - **Animated Bars**: Bars are drawn animatically, providing a visual representation of data.

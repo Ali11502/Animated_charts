@@ -1,2 +1,4 @@
 cars 120
 bikes 130
+motors 80
+planes 800
